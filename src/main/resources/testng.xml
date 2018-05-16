@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Instafin Application Test Automation Test Suite">
+
+
+    <!--<test name="Instafin App Test Cases">-->
+        <!--<classes>-->
+            <!--<class name="com.infy.qa.testcases.LoginPageTest"></class>-->
+            <!--&lt;!&ndash;<class name="com.infy.qa.testcases.HomePageTest"></class>&ndash;&gt;-->
+            <!--&lt;!&ndash;<class name="com.infy.qa.testcases.ClientPageTest"></class>&ndash;&gt;-->
+
+        <!--</classes>-->
+    <!--</test>-->
+<!--</suite>-->
+
+        <test name="full">
+            <packages>
+                <package name="com.infy.qa.testcases" />
+            </packages>
+        </test>
+
+    </suite>

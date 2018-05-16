@@ -2,14 +2,17 @@ package com.infy.qa.pages;
 
 import com.infy.qa.base.TestBase;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class HomePage extends TestBase {
     LoginPage loginPage;
     HomePage homepage;
-
+    // It will store particular userlabel name in a cache/memory, it will get particular element from the cache ins
+    // instead of page, performance of script will increase
     @FindBy(xpath = "//*[@id=\"activity-stream\"]/div[1]/div[1]/a")
+    @CacheLookup
     WebElement usernameLabel;
 
     @FindBy(xpath = "//*[@id=\"activity-stream\"]/div[1]/div[1]/a")
@@ -43,7 +46,7 @@ public class HomePage extends TestBase {
     public ClientPage verifyCreateClientLink() {
         //clickUsername.click ( );
         clickCreateClients.click ( );
-        clickCorporateClient.click ();
+        clickCorporateClient.click ( );
 
         return new ClientPage ( );
     }
