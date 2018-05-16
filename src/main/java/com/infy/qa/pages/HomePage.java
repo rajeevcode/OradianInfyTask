@@ -31,8 +31,12 @@ public class HomePage extends TestBase {
 
     }
 
-    public UserProfilePage clickOnUsername() {
-        clickUsername.click ( );
-        return new UserProfilePage ( );
+    public String verifyCorrectUserName(){
+        return usernameLabel.getText ();
     }
+
+//    public UserProfilePage clickOnUsername() {
+//        clickUsername.click ( );
+//        return new UserProfilePage ( );
+//    }
 }

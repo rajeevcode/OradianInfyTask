@@ -15,27 +15,34 @@ public class HomePageTest extends TestBase {
     TestUtil testUtil;
 
     public HomePageTest() {
-        super();
+        super ( );
     }
 
     @BeforeMethod
     public void setUp() {
+        // to initialize create login page object
         initialization ( );
-        testUtil = new TestUtil ();
+        testUtil = new TestUtil ( );
         loginPage = new LoginPage ( );
-        homePage = loginPage.login(prop.getProperty("username"), prop.getProperty("password"));
+        homePage = loginPage.login ( prop.getProperty ( "username" ), prop.getProperty ( "password" ) );
     }
 
-    @Test
+    @Test(priority = 1)
     public void verifyHomepageTitleTest() {
         String titleHomepage = homePage.verifyHomepageTitle ( );
         Assert.assertEquals ( titleHomepage, "Instafin - Dashboard" );
-        System.out.println (titleHomepage );
+        System.out.println ( titleHomepage );
+    }
+
+    @Test(priority = 2)
+    public void verifyUserNameTest() {
+        String userName = homePage.verifyCorrectUserName ( );
+        Assert.assertEquals ( userName, "rajeev test" );
+        System.out.println (userName );
     }
 
     @AfterMethod
     public void tearDown() {
         driver.quit ( );
     }
-
 }
