@@ -12,9 +12,9 @@ public class LoginPageTest extends TestBase {
     LoginPage loginPage;
     HomePage homePage;
 
-    public LoginPageTest() {
-        super ( );
-    }
+//    public LoginPageTest() {
+//        super ( );
+//    }
 
     @BeforeMethod
     public void setUp() {
