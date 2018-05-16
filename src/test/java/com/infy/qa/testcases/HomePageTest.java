@@ -1,9 +1,9 @@
 package com.infy.qa.testcases;
 
 import com.infy.qa.base.TestBase;
+import com.infy.qa.pages.ClientPage;
 import com.infy.qa.pages.HomePage;
 import com.infy.qa.pages.LoginPage;
-import com.infy.qa.util.TestUtil;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -12,7 +12,8 @@ import org.testng.annotations.Test;
 public class HomePageTest extends TestBase {
     LoginPage loginPage;
     HomePage homePage;
-    TestUtil testUtil;
+    ClientPage clientPage;
+    //TestUtil testUtil;
 
     public HomePageTest() {
         super ( );
@@ -22,8 +23,9 @@ public class HomePageTest extends TestBase {
     public void setUp() {
         // to initialize create login page object
         initialization ( );
-        testUtil = new TestUtil ( );
+       // testUtil = new TestUtil ( );
         loginPage = new LoginPage ( );
+        clientPage = new ClientPage();
         homePage = loginPage.login ( prop.getProperty ( "username" ), prop.getProperty ( "password" ) );
     }
 
@@ -36,9 +38,19 @@ public class HomePageTest extends TestBase {
 
     @Test(priority = 2)
     public void verifyUserNameTest() {
-        String userName = homePage.verifyCorrectUserName ( );
-        Assert.assertEquals ( userName, "rajeev test" );
-        System.out.println (userName );
+       Assert.assertTrue ( homePage.verifyCorrectUserName () );
+        //System.out.println (userName );
+    }
+
+    @Test(priority = 3)
+    public void verifyUsernameLinkTest(){
+        homePage.verifyUsernameLink ();
+
+    }
+
+    @Test
+    public void verifyCreateClientLinkTest(){
+        clientPage =  homePage.verifyCreateClientLink ();
     }
 
     @AfterMethod

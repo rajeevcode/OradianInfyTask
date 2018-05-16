@@ -12,7 +12,7 @@ public class HomePage extends TestBase {
     @FindBy(xpath = "//*[@id=\"activity-stream\"]/div[1]/div[1]/a")
     WebElement usernameLabel;
 
-    @FindBy(linkText = "rajeev test")
+    @FindBy(xpath = "//*[@id=\"activity-stream\"]/div[1]/div[1]/a")
     WebElement clickUsername;
 
     @FindBy(xpath = "//div[2]/div/div[1]/div/ul/li[3]/a/i")
@@ -31,12 +31,22 @@ public class HomePage extends TestBase {
 
     }
 
-    public String verifyCorrectUserName(){
-        return usernameLabel.getText ();
+    public UserProfilePage verifyUsernameLink() {
+        clickUsername.click ( );
+        return new UserProfilePage ( );
     }
 
-//    public UserProfilePage clickOnUsername() {
-//        clickUsername.click ( );
-//        return new UserProfilePage ( );
-//    }
+    public Boolean verifyCorrectUserName() {
+        return usernameLabel.isDisplayed ( );
+    }
+
+    public ClientPage verifyCreateClientLink() {
+        //clickUsername.click ( );
+        clickCreateClients.click ( );
+        clickCorporateClient.click ();
+
+        return new ClientPage ( );
+    }
 }
+
+
