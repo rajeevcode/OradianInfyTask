@@ -13,9 +13,9 @@ public class LoginPageTest extends TestBase {
     HomePage homePage;
 
     // Avoid unnecessary constructors - the compiler will generate these for you
-//    public LoginPageTest() {
-//        super ( );
-//    }
+    public LoginPageTest() {
+        super ( );
+    }
 
     @BeforeMethod
     public void setUp() {

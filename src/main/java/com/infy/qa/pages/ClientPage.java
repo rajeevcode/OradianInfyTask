@@ -8,6 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class ClientPage extends TestBase {
 
+   // Locator to create new client
     @FindBy(xpath = "//*[@id=\"content\"]/div[2]/div/div[1]/h2/strong")
     WebElement newClientLabel;
 
