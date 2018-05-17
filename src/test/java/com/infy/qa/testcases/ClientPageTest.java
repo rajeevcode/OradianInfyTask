@@ -28,7 +28,7 @@ public class ClientPageTest extends TestBase {
         clientPage = new ClientPage ( );
         corporateClient = new CorporateClient ( );
         homePage = loginPage.login ( prop.getProperty ( "username" ), prop.getProperty ( "password" ) );
-         homePage.verifyCreateClientLink ();
+        homePage.verifyCreateClientLink ( );
     }
 
     @Test(priority = 1)
@@ -36,13 +36,13 @@ public class ClientPageTest extends TestBase {
 //        String clientPageTitle = clientPage.verifyClientPageTitle ();
 //        Assert.assertEquals ( clientPageTitle, "Instafin - Create Corporate Client" );
         //System.out.println ( clientPageTitle );
-        Assert.assertTrue ( clientPage.verifyClientPageTitle ( ),"Client Page message is missing on the page" );
+        Assert.assertTrue ( clientPage.verifyClientPageTitle ( ), "Client Page message is missing on the page" );
 
     }
 
     @AfterMethod
-    public void tearDown(){
-        driver.quit ();
+    public void tearDown() {
+        driver.quit ( );
     }
 
 

@@ -23,9 +23,9 @@ public class HomePageTest extends TestBase {
     public void setUp() {
         // to initialize create login page object
         initialization ( );
-       // testUtil = new TestUtil ( );
+        // testUtil = new TestUtil ( );
         loginPage = new LoginPage ( );
-        clientPage = new ClientPage();
+        clientPage = new ClientPage ( );
         homePage = loginPage.login ( prop.getProperty ( "username" ), prop.getProperty ( "password" ) );
     }
 
@@ -38,19 +38,19 @@ public class HomePageTest extends TestBase {
 
     @Test(priority = 2)
     public void verifyUserNameTest() {
-       Assert.assertTrue ( homePage.verifyCorrectUserName () );
+        Assert.assertTrue ( homePage.verifyCorrectUserName ( ) );
         //System.out.println (userName );
     }
 
     @Test(priority = 3)
-    public void verifyUsernameLinkTest(){
-        homePage.verifyUsernameLink ();
+    public void verifyUsernameLinkTest() {
+        homePage.verifyUsernameLink ( );
 
     }
 
     @Test
-    public void verifyCreateClientLinkTest(){
-        clientPage =  homePage.verifyCreateClientLink ();
+    public void verifyCreateClientLinkTest() {
+        clientPage = homePage.verifyCreateClientLink ( );
     }
 
     @AfterMethod

@@ -22,8 +22,8 @@ public class ClientPage extends TestBase {
     public boolean verifyClientPageTitle() {
 
         driver.findElement ( By.xpath ( "//*[@id=\"content\"]/div[2]/div/div[1]/h2/strong" ) ).click ( );
-        driver.findElement ( By.xpath ( "//*[@id=\"content\"]/div[1]/div/h1/a" ) ).click ();
-        return newClientLabel.isDisplayed ();
+        driver.findElement ( By.xpath ( "//*[@id=\"content\"]/div[1]/div/h1/a" ) ).click ( );
+        return newClientLabel.isDisplayed ( );
 
     }
 }

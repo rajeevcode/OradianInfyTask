@@ -9,5 +9,8 @@
         <module name="OradianInfyTask" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="OradianInfyTask" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
