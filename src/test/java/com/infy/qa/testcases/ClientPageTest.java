@@ -13,7 +13,6 @@ public class ClientPageTest extends TestBase {
     LoginPage loginPage;
     HomePage homePage;
     ClientPage clientPage;
-    CorporateClient corporateClient;
 
     public ClientPageTest() {
         super ( );
@@ -23,19 +22,14 @@ public class ClientPageTest extends TestBase {
     public void setUp() {
         // to initialize create login page object
         initialization ( );
-        // testUtil = new TestUtil ( );
         loginPage = new LoginPage ( );
         clientPage = new ClientPage ( );
-        corporateClient = new CorporateClient ( );
         homePage = loginPage.login ( prop.getProperty ( "username" ), prop.getProperty ( "password" ) );
         homePage.verifyCreateClientLink ( );
     }
 
     @Test(priority = 1)
     public void verifyClientPageTitleTest() {
-//        String clientPageTitle = clientPage.verifyClientPageTitle ();
-//        Assert.assertEquals ( clientPageTitle, "Instafin - Create Corporate Client" );
-        //System.out.println ( clientPageTitle );
         Assert.assertTrue ( clientPage.verifyClientPageTitle ( ), "Client Page message is missing on the page" );
 
     }
