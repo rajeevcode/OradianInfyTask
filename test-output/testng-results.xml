@@ -2,104 +2,104 @@
 <testng-results skipped="0" failed="1" ignored="0" total="8" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Instafin Application Test Automation Test Suite" duration-ms="118941" started-at="2018-05-17T07:02:25Z" finished-at="2018-05-17T07:04:24Z">
+  <suite name="Instafin Application Test Automation Test Suite" duration-ms="116314" started-at="2018-05-17T07:21:32Z" finished-at="2018-05-17T07:23:28Z">
     <groups>
     </groups>
-    <test name="Full Test Cases Execution" duration-ms="118941" started-at="2018-05-17T07:02:25Z" finished-at="2018-05-17T07:04:24Z">
+    <test name="Full Test Cases Execution" duration-ms="116314" started-at="2018-05-17T07:21:32Z" finished-at="2018-05-17T07:23:28Z">
       <class name="com.infy.qa.testcases.HomePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="setUp" is-config="true" duration-ms="13726" started-at="2018-05-17T07:02:25Z" finished-at="2018-05-17T07:02:39Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="setUp" is-config="true" duration-ms="13553" started-at="2018-05-17T07:21:32Z" finished-at="2018-05-17T07:21:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyCreateClientLinkTest()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="verifyCreateClientLinkTest" duration-ms="1454" started-at="2018-05-17T07:02:39Z" finished-at="2018-05-17T07:02:40Z">
+        <test-method status="PASS" signature="verifyCreateClientLinkTest()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="verifyCreateClientLinkTest" duration-ms="1622" started-at="2018-05-17T07:21:45Z" finished-at="2018-05-17T07:21:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCreateClientLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="tearDown" is-config="true" duration-ms="256" started-at="2018-05-17T07:02:40Z" finished-at="2018-05-17T07:02:41Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="tearDown" is-config="true" duration-ms="235" started-at="2018-05-17T07:21:47Z" finished-at="2018-05-17T07:21:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="setUp" is-config="true" duration-ms="12218" started-at="2018-05-17T07:03:16Z" finished-at="2018-05-17T07:03:28Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="setUp" is-config="true" duration-ms="11280" started-at="2018-05-17T07:22:23Z" finished-at="2018-05-17T07:22:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyHomepageTitleTest()[pri:1, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="verifyHomepageTitleTest" duration-ms="16" started-at="2018-05-17T07:03:28Z" finished-at="2018-05-17T07:03:28Z">
+        <test-method status="PASS" signature="verifyHomepageTitleTest()[pri:1, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="verifyHomepageTitleTest" duration-ms="26" started-at="2018-05-17T07:22:34Z" finished-at="2018-05-17T07:22:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomepageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="tearDown" is-config="true" duration-ms="190" started-at="2018-05-17T07:03:28Z" finished-at="2018-05-17T07:03:28Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="tearDown" is-config="true" duration-ms="180" started-at="2018-05-17T07:22:34Z" finished-at="2018-05-17T07:22:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="setUp" is-config="true" duration-ms="12891" started-at="2018-05-17T07:03:38Z" finished-at="2018-05-17T07:03:51Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="setUp" is-config="true" duration-ms="12680" started-at="2018-05-17T07:22:42Z" finished-at="2018-05-17T07:22:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyUserNameTest()[pri:2, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="verifyUserNameTest" duration-ms="70" started-at="2018-05-17T07:03:51Z" finished-at="2018-05-17T07:03:51Z">
+        <test-method status="PASS" signature="verifyUserNameTest()[pri:2, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="verifyUserNameTest" duration-ms="42" started-at="2018-05-17T07:22:55Z" finished-at="2018-05-17T07:22:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUserNameTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="tearDown" is-config="true" duration-ms="215" started-at="2018-05-17T07:03:51Z" finished-at="2018-05-17T07:03:51Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="tearDown" is-config="true" duration-ms="187" started-at="2018-05-17T07:22:55Z" finished-at="2018-05-17T07:22:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="setUp" is-config="true" duration-ms="11658" started-at="2018-05-17T07:03:59Z" finished-at="2018-05-17T07:04:11Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="setUp" is-config="true" duration-ms="12722" started-at="2018-05-17T07:23:03Z" finished-at="2018-05-17T07:23:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyUsernameLinkTest()[pri:3, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="verifyUsernameLinkTest" duration-ms="937" started-at="2018-05-17T07:04:11Z" finished-at="2018-05-17T07:04:12Z">
+        <test-method status="PASS" signature="verifyUsernameLinkTest()[pri:3, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="verifyUsernameLinkTest" duration-ms="1168" started-at="2018-05-17T07:23:15Z" finished-at="2018-05-17T07:23:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUsernameLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="tearDown" is-config="true" duration-ms="250" started-at="2018-05-17T07:04:12Z" finished-at="2018-05-17T07:04:12Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.HomePageTest@2ef9b8bc]" name="tearDown" is-config="true" duration-ms="316" started-at="2018-05-17T07:23:17Z" finished-at="2018-05-17T07:23:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.infy.qa.testcases.HomePageTest -->
       <class name="com.infy.qa.testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="setUp" is-config="true" duration-ms="9432" started-at="2018-05-17T07:03:28Z" finished-at="2018-05-17T07:03:38Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="setUp" is-config="true" duration-ms="7670" started-at="2018-05-17T07:22:34Z" finished-at="2018-05-17T07:22:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="loginPageTitleTest" duration-ms="10" started-at="2018-05-17T07:03:38Z" finished-at="2018-05-17T07:03:38Z">
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="loginPageTitleTest" duration-ms="42" started-at="2018-05-17T07:22:42Z" finished-at="2018-05-17T07:22:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="tearDown" is-config="true" duration-ms="131" started-at="2018-05-17T07:03:38Z" finished-at="2018-05-17T07:03:38Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="tearDown" is-config="true" duration-ms="165" started-at="2018-05-17T07:22:42Z" finished-at="2018-05-17T07:22:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="setUp" is-config="true" duration-ms="7850" started-at="2018-05-17T07:03:51Z" finished-at="2018-05-17T07:03:59Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="setUp" is-config="true" duration-ms="7569" started-at="2018-05-17T07:22:55Z" finished-at="2018-05-17T07:23:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="customLogoTest()[pri:2, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="customLogoTest" duration-ms="53" started-at="2018-05-17T07:03:59Z" finished-at="2018-05-17T07:03:59Z">
+        <test-method status="PASS" signature="customLogoTest()[pri:2, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="customLogoTest" duration-ms="45" started-at="2018-05-17T07:23:02Z" finished-at="2018-05-17T07:23:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- customLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="tearDown" is-config="true" duration-ms="158" started-at="2018-05-17T07:03:59Z" finished-at="2018-05-17T07:03:59Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="tearDown" is-config="true" duration-ms="123" started-at="2018-05-17T07:23:03Z" finished-at="2018-05-17T07:23:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="setUp" is-config="true" duration-ms="9014" started-at="2018-05-17T07:04:12Z" finished-at="2018-05-17T07:04:21Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="setUp" is-config="true" duration-ms="8086" started-at="2018-05-17T07:23:17Z" finished-at="2018-05-17T07:23:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="loginTest" duration-ms="2830" started-at="2018-05-17T07:04:21Z" finished-at="2018-05-17T07:04:24Z">
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="loginTest" duration-ms="2920" started-at="2018-05-17T07:23:25Z" finished-at="2018-05-17T07:23:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="tearDown" is-config="true" duration-ms="169" started-at="2018-05-17T07:04:24Z" finished-at="2018-05-17T07:04:24Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@5d624da6]" name="tearDown" is-config="true" duration-ms="209" started-at="2018-05-17T07:23:28Z" finished-at="2018-05-17T07:23:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.infy.qa.testcases.LoginPageTest -->
       <class name="com.infy.qa.testcases.ClientPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.ClientPageTest@5315b42e]" name="setUp" is-config="true" duration-ms="13056" started-at="2018-05-17T07:02:41Z" finished-at="2018-05-17T07:02:54Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.ClientPageTest@5315b42e]" name="setUp" is-config="true" duration-ms="13047" started-at="2018-05-17T07:21:47Z" finished-at="2018-05-17T07:22:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="verifyClientPageTitleTest()[pri:1, instance:com.infy.qa.testcases.ClientPageTest@5315b42e]" name="verifyClientPageTitleTest" duration-ms="22019" started-at="2018-05-17T07:02:54Z" finished-at="2018-05-17T07:03:16Z">
+        <test-method status="FAIL" signature="verifyClientPageTitleTest()[pri:1, instance:com.infy.qa.testcases.ClientPageTest@5315b42e]" name="verifyClientPageTitleTest" duration-ms="22033" started-at="2018-05-17T07:22:00Z" finished-at="2018-05-17T07:22:22Z">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="content"]/div[2]/div/div[1]/h2/strong"}
@@ -111,7 +111,7 @@ Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.1
 System info: host: 'LAZ-TH-L-M-0053', ip: 'fe80:0:0:0:ad:da73:fbe3:502a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '1.8.0_162'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552518 (183d19265345f5..., userDataDir: /var/folders/z3/_h69_9gj07b...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.170, webStorageEnabled: true}
-Session ID: add421f9c0ab957ec921d211f381a4b0
+Session ID: d458d6412c11ad553d8e52df2916130a
 *** Element info: {Using=xpath, value=//*[@id="content"]/div[2]/div/div[1]/h2/strong}]]>
             </message>
             <full-stacktrace>
@@ -124,7 +124,7 @@ Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.1
 System info: host: 'LAZ-TH-L-M-0053', ip: 'fe80:0:0:0:ad:da73:fbe3:502a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '1.8.0_162'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552518 (183d19265345f5..., userDataDir: /var/folders/z3/_h69_9gj07b...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.170, webStorageEnabled: true}
-Session ID: add421f9c0ab957ec921d211f381a4b0
+Session ID: d458d6412c11ad553d8e52df2916130a
 *** Element info: {Using=xpath, value=//*[@id="content"]/div[2]/div/div[1]/h2/strong}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -184,7 +184,7 @@ at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyClientPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.ClientPageTest@5315b42e]" name="tearDown" is-config="true" duration-ms="260" started-at="2018-05-17T07:03:16Z" finished-at="2018-05-17T07:03:16Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.ClientPageTest@5315b42e]" name="tearDown" is-config="true" duration-ms="330" started-at="2018-05-17T07:22:22Z" finished-at="2018-05-17T07:22:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

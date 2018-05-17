@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c47b9b82-e8cc-429c-8d91-f198cd11b175" name="Default" comment="added changes to maven and testng.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testng_sanity.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ReadProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/CorporateClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/CorporateClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Extent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.HomePageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.HomePageTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c47b9b82-e8cc-429c-8d91-f198cd11b175" name="Default" comment="added changes to maven and testng.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -116,6 +103,60 @@
             <path>
               <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
               <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtentReportListener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
@@ -348,10 +389,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginPageTest" />
         <item itemvalue="Application.CorporateClient" />
         <item itemvalue="TestNG.ClientPageTest" />
         <item itemvalue="TestNG.HomePageTest" />
-        <item itemvalue="TestNG.LoginPageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +408,7 @@
       <updated>1526536146583</updated>
       <workItem from="1526536150655" duration="2055000" />
       <workItem from="1526539217909" duration="256000" />
-      <workItem from="1526540125743" duration="1071000" />
+      <workItem from="1526540125743" duration="1319000" />
     </task>
     <task id="LOCAL-00001" summary="added changes to maven and testng.xml">
       <created>1526539369318</created>
@@ -380,9 +421,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="testng_sanity - 2018.05.17 at 13h 06m 45s.xml">
-      <configuration name="testng_sanity" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="testng_sanity - 2018.05.17 at 13h 07m 37s.xml">
       <configuration name="testng_sanity" configurationId="TestNG" />
     </history-entry>
@@ -410,9 +448,12 @@
     <history-entry file="_Users_rajeev_kumar_git_OradianInfyTask_src_main_resources_testng_xml - 2018.05.17 at 14h 04m 26s.xml">
       <configuration name="/Users/rajeev.kumar/git/OradianInfyTask/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="LoginPageTest - 2018.05.17 at 14h 19m 03s.xml">
+      <configuration name="LoginPageTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3382000" />
+    <option name="totallyTimeSpent" value="3630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="28" width="1202" height="717" extended-state="0" />
@@ -428,12 +469,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.25775862" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41708544" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32998326" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32998326" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32998326" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Jenkins" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2689655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2689655" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
