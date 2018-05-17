@@ -1,0 +1,5 @@
+com/infy/qa/testcases/HomePageTest.class
+com/infy/qa/testcases/ClientPageTest.class
+com/infy/qa/testcases/CorporateClient.class
+ReadProperties.class
+com/infy/qa/testcases/LoginPageTest.class
