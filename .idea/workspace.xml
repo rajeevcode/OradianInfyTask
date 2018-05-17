@@ -2,58 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f42aa4b1-a5af-41a3-8337-186c5f0d55e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/1526513460236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/1526514190664.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/ExtentReportListener/ExtentReporterNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/base/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/config/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/pages/ClientPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/pages/CorporateClientsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/pages/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/pages/UserProfilePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/util/TestUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/util/WebEventListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/qa/ExtentReportListener/ExtentReporterNG.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/testng_sanity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/ReadProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/ClientPageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/CorporateClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/HomePageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/LoginPageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Extent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Instafin App Test Cases.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.HomePageTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/Instafin App Test Cases.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testng_sanity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testng_sanity.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/OradianInfyTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Instafin App Test Cases.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/OradianInfyTask.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.LoginPageTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/OradianInfyTask.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/groups.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/reporter-output.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/infy/qa/config/config.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -70,17 +22,17 @@
       <file leaf-file-name="testng_sanity.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/testng_sanity.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state>
               <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="90">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -97,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="360">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -141,8 +93,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/infy/qa/util/WebEventListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/qa/ExtentReportListener/ExtentReporterNG.java" />
         <option value="$PROJECT_DIR$/src/main/resources/testng_sanity.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
       </list>
     </option>
   </component>
@@ -209,11 +161,6 @@
             <path>
               <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
               <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -228,38 +175,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtentReportListener" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
@@ -271,28 +186,13 @@
             <path>
               <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
               <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
               <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
               <item name="test-output" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -616,7 +516,7 @@
       <option name="presentableId" value="Default" />
       <updated>1526456193961</updated>
       <workItem from="1526456197531" duration="29094000" />
-      <workItem from="1526519163056" duration="2160000" />
+      <workItem from="1526519163056" duration="4279000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1526466890454</created>
@@ -703,7 +603,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31254000" />
+    <option name="totallyTimeSpent" value="33373000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -716,6 +616,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="80" y="28" width="1183" height="717" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -736,9 +637,9 @@
       <window_info anchor="right" id="Nativer Admin" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32160804" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.34338358" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32998326" />
       <window_info anchor="right" id="Jenkins" order="3" weight="0.34208223" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991511" visible="true" weight="0.29886064" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991511" visible="true" weight="0.2462752" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -1023,7 +924,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/testng_sanity.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state>
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
@@ -1041,17 +942,32 @@
     <entry file="file://$PROJECT_DIR$/test-output/emailable-report.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/target/surefire/surefire4707102277531935133tmp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/1526523428532.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/1526514190664.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/1526523027479.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/1526523862066.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>

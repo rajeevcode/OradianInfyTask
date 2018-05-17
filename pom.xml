@@ -8,10 +8,6 @@
     <artifactId>OradianInfyTask</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <!--<groupId>TestNGListener</groupId>-->
-    <!--<artifactId>TestNGListener</artifactId>-->
-    <!--<version>1.0-SNAPSHOT</version>-->
-
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
