@@ -30,7 +30,7 @@ public class ClientPageTest extends TestBase {
 
     @Test(priority = 1)
     public void verifyClientPageTitleTest() {
-        Assert.assertTrue ( clientPage.verifyClientPageTitle ( ), "Client Page message is missing on the page" );
+        Assert.assertTrue ( clientPage.verifyClientPageTitle ( ), "Client Page message is missing on this page" );
 
     }
 
@@ -38,6 +38,4 @@ public class ClientPageTest extends TestBase {
     public void tearDown() {
         driver.quit ( );
     }
-
-
 }

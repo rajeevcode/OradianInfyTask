@@ -14,20 +14,19 @@ public class LoginPage extends TestBase {
     @FindBy(id = "pw1")
     WebElement password;
 
-    @FindBy(xpath = "/html/body/div/div/div/div[2]/form/fieldset/button")
+    @FindBy(xpath = "//div/div/div/div[2]/form/fieldset/button")
     WebElement loginButton;
 
-    @FindBy(xpath = "/html/body/div/div/div/div[2]/h2")
+    @FindBy(xpath = "//div/div/div/div[2]/h2")
     WebElement loginPageMessage;
 
-    @FindBy(xpath = "/html/body/div/div/div/div[1]/a/img")
+    @FindBy(xpath = "//div/div/div/div[1]/a/img")
     WebElement customLogo;
 
     // Initializing the Page Objects
     public LoginPage() {
         PageFactory.initElements ( driver, this );
         //this is used for pointing to the current class object
-
     }
 
     public String validateLoginPageTitle() {
@@ -44,6 +43,5 @@ public class LoginPage extends TestBase {
         loginButton.click ( );
 
         return new HomePage ( );
-
     }
 }

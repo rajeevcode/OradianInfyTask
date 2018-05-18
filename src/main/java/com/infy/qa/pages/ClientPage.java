@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class ClientPage extends TestBase {
 
-   // Locator to create new client
+    // Locator to create new client
     @FindBy(xpath = "//*[@id=\"content\"]/div[2]/div/div[1]/h2/strong")
     WebElement newClientLabel;
 
@@ -25,6 +25,5 @@ public class ClientPage extends TestBase {
         driver.findElement ( By.xpath ( "//*[@id=\"content\"]/div[2]/div/div[1]/h2/strong" ) ).click ( );
         driver.findElement ( By.xpath ( "//*[@id=\"content\"]/div[1]/div/h1/a" ) ).click ( );
         return newClientLabel.isDisplayed ( );
-
     }
 }

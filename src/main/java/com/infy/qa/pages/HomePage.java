@@ -9,8 +9,9 @@ import org.openqa.selenium.support.PageFactory;
 public class HomePage extends TestBase {
     LoginPage loginPage;
     HomePage homepage;
-    // It will store particular userlabel name in a cache/memory, it will get particular element from the cache ins
-    // instead of page, performance of script will increase
+    /*It will store particular userlabel name in a cache/memory, it will get particular element from
+    the cache instead of page, performance of script will increase
+    */
     @FindBy(xpath = "//*[@id=\"activity-stream\"]/div[1]/div[1]/a")
     @CacheLookup
     WebElement usernameLabel;

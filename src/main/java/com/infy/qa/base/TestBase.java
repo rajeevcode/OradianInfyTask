@@ -1,8 +1,8 @@
 package com.infy.qa.base;
+
 /*@author rajeev kumar
 ---
  */
-
 import com.infy.qa.util.TestUtil;
 import com.infy.qa.util.WebEventListener;
 import org.openqa.selenium.WebDriver;
@@ -10,6 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -22,15 +23,20 @@ public class TestBase {
     public static Properties prop;
     public static EventFiringWebDriver e_driver;
     public static WebEventListener eventListener;
+    public static Properties Repository = new Properties ( );
+    public File f;
+    public FileInputStream ip;
 
     public TestBase() {
 
+        /* this fix is for relative path.Now it will work on relative path.It will pick path from src folder
+         as relative path not hardcoded with absolute path.
+         */
         try {
-            //Properties prop = new Properties (  );
             prop = new Properties ( );
-            FileInputStream ip = new FileInputStream ( "/Users/rajeev.kumar/git/" +
-                    "OradianInfyTask/src/main/java/com/infy/qa/config/config.properties" );
-
+            f = new File ( System.getProperty ( "user.dir" ) +
+                    "/src/main/java/com/infy/qa/config/config.properties" );
+            ip = new FileInputStream ( f );
             prop.load ( ip );
         } catch (FileNotFoundException e) {
             e.printStackTrace ( );
@@ -43,7 +49,7 @@ public class TestBase {
 
         String browserName = prop.getProperty ( "browser" );
 
-        //Added below code so script will not fail when ran on different OS
+        //Added below code so script will not fail when triggered on different OS(Mac or Windows)
         if ( System.getProperty ( "os.name" ).contains ( "Window" ) ) {
             if ( browserName.equalsIgnoreCase ( "firefox" ) ) {
                 System.out.println ( System.getProperty ( "user.dir" ) );
@@ -69,7 +75,6 @@ public class TestBase {
             driver.manage ( ).timeouts ( ).implicitlyWait ( TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS );
 
             driver.get ( prop.getProperty ( "url" ) );
-
         }
     }
 }

@@ -1,25 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Instafin Application Test Automation Test Suite" duration-ms="17955" started-at="2018-05-18T13:08:28Z" finished-at="2018-05-18T13:08:46Z">
+  <suite name="Default Suite" duration-ms="32082" started-at="2018-05-18T18:01:26Z" finished-at="2018-05-18T18:01:58Z">
     <groups>
     </groups>
-    <test name="Instafin App Test Cases" duration-ms="17955" started-at="2018-05-18T13:08:28Z" finished-at="2018-05-18T13:08:46Z">
-      <class name="com.infy.qa.testcases.HomePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.HomePageTest@13fee20c]" name="setUp" is-config="true" duration-ms="15891" started-at="2018-05-18T13:08:28Z" finished-at="2018-05-18T13:08:44Z">
+    <test name="OradianInfyTask" duration-ms="32082" started-at="2018-05-18T18:01:26Z" finished-at="2018-05-18T18:01:58Z">
+      <class name="com.infy.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@32d992b2]" name="setUp" is-config="true" duration-ms="11830" started-at="2018-05-18T18:01:26Z" finished-at="2018-05-18T18:01:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyCreateClientLinkTest()[pri:0, instance:com.infy.qa.testcases.HomePageTest@13fee20c]" name="verifyCreateClientLinkTest" duration-ms="1710" started-at="2018-05-18T13:08:44Z" finished-at="2018-05-18T13:08:46Z">
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.infy.qa.testcases.LoginPageTest@32d992b2]" name="loginPageTitleTest" duration-ms="26" started-at="2018-05-18T18:01:38Z" finished-at="2018-05-18T18:01:38Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyCreateClientLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.HomePageTest@13fee20c]" name="tearDown" is-config="true" duration-ms="243" started-at="2018-05-18T13:08:46Z" finished-at="2018-05-18T13:08:46Z">
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@32d992b2]" name="tearDown" is-config="true" duration-ms="187" started-at="2018-05-18T18:01:38Z" finished-at="2018-05-18T18:01:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.infy.qa.testcases.HomePageTest -->
-    </test> <!-- Instafin App Test Cases -->
-  </suite> <!-- Instafin Application Test Automation Test Suite -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@32d992b2]" name="setUp" is-config="true" duration-ms="8076" started-at="2018-05-18T18:01:38Z" finished-at="2018-05-18T18:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="customLogoTest()[pri:2, instance:com.infy.qa.testcases.LoginPageTest@32d992b2]" name="customLogoTest" duration-ms="83" started-at="2018-05-18T18:01:46Z" finished-at="2018-05-18T18:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@32d992b2]" name="tearDown" is-config="true" duration-ms="178" started-at="2018-05-18T18:01:46Z" finished-at="2018-05-18T18:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@32d992b2]" name="setUp" is-config="true" duration-ms="8247" started-at="2018-05-18T18:01:47Z" finished-at="2018-05-18T18:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.infy.qa.testcases.LoginPageTest@32d992b2]" name="loginTest" duration-ms="3228" started-at="2018-05-18T18:01:55Z" finished-at="2018-05-18T18:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.infy.qa.testcases.LoginPageTest@32d992b2]" name="tearDown" is-config="true" duration-ms="178" started-at="2018-05-18T18:01:58Z" finished-at="2018-05-18T18:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.infy.qa.testcases.LoginPageTest -->
+    </test> <!-- OradianInfyTask -->
+  </suite> <!-- Default Suite -->
 </testng-results>

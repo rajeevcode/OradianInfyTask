@@ -12,7 +12,6 @@ public class LoginPageTest extends TestBase {
     LoginPage loginPage;
     HomePage homePage;
 
-    // Avoid unnecessary constructors - the compiler will generate these for you
     public LoginPageTest() {
         super ( );
     }

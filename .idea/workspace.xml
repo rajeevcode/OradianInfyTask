@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5348da46-c98e-4e10-8fbf-5ba9c8c2613e" name="Default" comment="" />
+    <list default="true" id="5348da46-c98e-4e10-8fbf-5ba9c8c2613e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/1526648714952.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/1526648793571.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/infy/qa/pages/ClientPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infy/qa/pages/ClientPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/infy/qa/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infy/qa/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/infy/qa/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infy/qa/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/ClientPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/ClientPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/infy/qa/base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/base/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/infy/qa/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/infy/qa/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/ClientPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/ClientPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/HomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/infy/qa/testcases/LoginPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Extent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Full Test Cases Execution.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Full Test Cases Execution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Full Test Cases Execution.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Full Test Cases Execution.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.ClientPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.ClientPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.HomePageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.HomePageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.LoginPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.LoginPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10,25 +42,79 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/OradianInfyTask$LoginPageTest.ic" NAME="LoginPageTest Coverage Results" MODIFIED="1526666484702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.infy.qa.testcases.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OradianInfyTask$TestNG.ic" NAME="TestNG Coverage Results" MODIFIED="1526666117120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
+      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="60">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java">
+      <file leaf-file-name="ClientPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/ClientPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-202">
-              <caret line="45" column="75" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
+            <state relative-caret-position="240">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserProfilePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/UserProfilePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-229">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientPageTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/ClientPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPageTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/LoginPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="91" column="10" lean-forward="true" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -48,13 +134,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/infy/qa/config/config.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/infy/qa/pages/ClientPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/LoginPageTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/ClientPageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/infy/qa/datadriventest/DataDrivenTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/LoginPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/ClientPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/infy/qa/pages/ClientPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/infy/qa/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/infy/qa/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -88,8 +177,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="61" />
-    <option name="y" value="28" />
+    <option name="x" value="78" />
+    <option name="y" value="31" />
     <option name="width" value="1202" />
     <option name="height" value="717" />
   </component>
@@ -99,19 +188,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
               <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
@@ -152,6 +237,14 @@
               <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -184,7 +277,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,18 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.testng_sanity">
-    <configuration name="CorporateClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.infy.qa.testcases.CorporateClient" />
-      <module name="OradianInfyTask" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.infy.qa.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="TestNG.LoginPageTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -270,7 +351,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="HomePageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ClientPageTest.verifyClientPageTitleTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OradianInfyTask" />
       <extension name="coverage">
         <pattern>
@@ -282,10 +363,10 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.infy.qa.testcases" />
-      <option name="MAIN_CLASS_NAME" value="com.infy.qa.testcases.HomePageTest" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="com.infy.qa.testcases.ClientPageTest" />
+      <option name="METHOD_NAME" value="verifyClientPageTitleTest" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -296,6 +377,35 @@
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OradianInfyTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.infy.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.infy.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.infy.qa.testcases.HomePageTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
     </configuration>
@@ -357,6 +467,29 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="TestNG" type="TestNG" factoryName="TestNG">
+      <module name="OradianInfyTask" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -379,16 +512,22 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="testng" type="TestNG" factoryName="TestNG">
+    <configuration name="com.infy.qa.testcases" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
       <module name="OradianInfyTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.infy.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
-      <option name="PACKAGE_NAME" value="" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.infy.qa.testcases" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
@@ -426,21 +565,22 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.testng" />
+      <item itemvalue="TestNG.TestNG" />
       <item itemvalue="TestNG.testng_sanity" />
-      <item itemvalue="Application.CorporateClient" />
-      <item itemvalue="TestNG.LoginPageTest" />
       <item itemvalue="TestNG.ClientPageTest" />
       <item itemvalue="TestNG.HomePageTest" />
       <item itemvalue="TestNG.LoginPageTest.loginPageTitleTest" />
+      <item itemvalue="TestNG.ClientPageTest.verifyClientPageTitleTest" />
+      <item itemvalue="TestNG.com.infy.qa.testcases" />
+      <item itemvalue="TestNG.LoginPageTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ClientPageTest" />
         <item itemvalue="TestNG.LoginPageTest" />
         <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.ClientPageTest.verifyClientPageTitleTest" />
+        <item itemvalue="TestNG.ClientPageTest" />
         <item itemvalue="TestNG.LoginPageTest.loginPageTitleTest" />
-        <item itemvalue="Application.CorporateClient" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +597,8 @@
       <workItem from="1526536150655" duration="2055000" />
       <workItem from="1526539217909" duration="256000" />
       <workItem from="1526540125743" duration="3389000" />
-      <workItem from="1526648292749" duration="965000" />
+      <workItem from="1526648292749" duration="2156000" />
+      <workItem from="1526664694276" duration="1776000" />
     </task>
     <task id="LOCAL-00001" summary="added changes to maven and testng.xml">
       <created>1526539369318</created>
@@ -470,74 +611,75 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginPageTest - 2018.05.18 at 19h 59m 17s.xml">
+    <history-entry file="LoginPageTest - 2018.05.19 at 00h 34m 23s.xml">
       <configuration name="LoginPageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest - 2018.05.18 at 19h 59m 25s.xml">
-      <configuration name="LoginPageTest" configurationId="TestNG" />
+    <history-entry file="HomePageTest - 2018.05.19 at 00h 35m 47s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest - 2018.05.18 at 20h 00m 18s.xml">
-      <configuration name="LoginPageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginPageTest - 2018.05.18 at 20h 00m 30s.xml">
-      <configuration name="LoginPageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginPageTest - 2018.05.18 at 20h 01m 18s.xml">
-      <configuration name="LoginPageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginPageTest - 2018.05.18 at 20h 02m 59s.xml">
-      <configuration name="LoginPageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ClientPageTest - 2018.05.18 at 20h 03m 46s.xml">
+    <history-entry file="ClientPageTest - 2018.05.19 at 00h 37m 45s.xml">
       <configuration name="ClientPageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ClientPageTest - 2018.05.18 at 20h 05m 15s.xml">
-      <configuration name="ClientPageTest" configurationId="TestNG" />
+    <history-entry file="testng - 2018.05.19 at 00h 40m 14s.xml">
+      <configuration name="testng" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_rajeev_kumar_git_OradianInfyTask_src_main_resources_testng_xml - 2018.05.18 at 20h 07m 42s.xml">
-      <configuration name="/Users/rajeev.kumar/git/OradianInfyTask/src/main/resources/testng.xml" configurationId="TestNG" />
+    <history-entry file="ClientPageTest_verifyClientPageTitleTest - 2018.05.19 at 00h 47m 04s.xml">
+      <configuration name="ClientPageTest.verifyClientPageTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="testng_sanity - 2018.05.18 at 20h 08m 47s.xml">
-      <configuration name="testng_sanity" configurationId="TestNG" />
+    <history-entry file="LoginPageTest - 2018.05.19 at 00h 50m 28s.xml">
+      <configuration name="LoginPageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testng - 2018.05.19 at 00h 54m 00s.xml">
+      <configuration name="testng" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG - 2018.05.19 at 00h 57m 24s.xml">
+      <configuration name="TestNG" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2018.05.19 at 00h 58m 53s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginPageTest - 2018.05.19 at 01h 00m 25s.xml">
+      <configuration name="LoginPageTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7863000" />
+    <option name="totallyTimeSpent" value="10830000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="28" width="1202" height="717" extended-state="0" />
+    <frame x="78" y="31" width="1202" height="717" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.25775862" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3484087" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Nativer Admin" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.25775862" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.16080402" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42546064" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41708544" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32931036" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32998326" />
-      <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Jenkins" order="3" />
-      <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24482758" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998326" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -583,6 +725,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="added changes to maven and testng.xml" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="65" column="43" lean-forward="true" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -650,31 +814,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/config/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/UserProfilePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -706,27 +849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/CorporateClientsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/ClientPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/testng_sanity.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -734,46 +856,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/LoginPageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/CorporateClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/datadriventest/DataDrivenTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
           <folding>
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/CorporateClient.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/ClientPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="26" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/datadriventest/DataDrivenTest.java" />
-    <entry file="file://$PROJECT_DIR$/screenshots/1526648714952.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screenshots/1526648793571.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-202">
-          <caret line="45" column="75" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="-89">
+          <caret line="19" column="12" selection-end-line="56" />
+          <folding>
+            <element signature="e#1231#1232#0" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/CorporateClientsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/ClientPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/UserProfilePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/ClientPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="91" column="10" lean-forward="true" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
         </state>
       </provider>
     </entry>
