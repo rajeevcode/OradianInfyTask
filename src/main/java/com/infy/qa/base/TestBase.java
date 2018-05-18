@@ -43,27 +43,35 @@ public class TestBase {
 
         String browserName = prop.getProperty ( "browser" );
 
-        if ( browserName.equals ( "chrome" ) ) {
+        //Added below code so script will not fail when ran on different OS
+        if ( System.getProperty ( "os.name" ).contains ( "Window" ) ) {
+            if ( browserName.equalsIgnoreCase ( "firefox" ) ) {
+                System.out.println ( System.getProperty ( "user.dir" ) );
+                driver = new FirefoxDriver ( );
+            }
+            else if ( browserName.equalsIgnoreCase ( "chrome" ) ) {
+                driver = new ChromeDriver ( );
+            }
+        }
+        else if ( System.getProperty ( "os.name" ).contains ( "Mac" ) ) {
+            System.out.println ( System.getProperty ( "os.name" ) );
             driver = new ChromeDriver ( );
+
+
+            e_driver = new EventFiringWebDriver ( driver );
+            eventListener = new WebEventListener ( );
+            e_driver.register ( eventListener );
+            driver = e_driver;
+
+            driver.manage ( ).window ( ).maximize ( );
+            driver.manage ( ).deleteAllCookies ( );
+            driver.manage ( ).timeouts ( ).pageLoadTimeout ( TestUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS );
+            driver.manage ( ).timeouts ( ).implicitlyWait ( TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS );
+
+            driver.get ( prop.getProperty ( "url" ) );
+
         }
-        else if ( browserName.equals ( "FF" ) ) {
-            driver = new FirefoxDriver ( );
-        }
-
-        e_driver = new EventFiringWebDriver ( driver );
-        eventListener = new WebEventListener ( );
-        e_driver.register ( eventListener );
-        driver = e_driver;
-
-        driver.manage ( ).window ( ).maximize ( );
-        driver.manage ( ).deleteAllCookies ( );
-        driver.manage ( ).timeouts ( ).pageLoadTimeout ( TestUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS );
-        driver.manage ( ).timeouts ( ).implicitlyWait ( TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS );
-
-        driver.get ( prop.getProperty ( "url" ) );
-
     }
-
 }
 
 

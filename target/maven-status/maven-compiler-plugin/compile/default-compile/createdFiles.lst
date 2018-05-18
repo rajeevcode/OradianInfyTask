@@ -1,9 +1,0 @@
-com/infy/qa/pages/HomePage.class
-com/infy/qa/pages/CorporateClientsPage.class
-com/infy/qa/util/TestUtil.class
-com/infy/qa/pages/UserProfilePage.class
-com/infy/qa/pages/LoginPage.class
-com/qa/ExtentReportListener/ExtentReporterNG.class
-com/infy/qa/pages/ClientPage.class
-com/infy/qa/base/TestBase.class
-com/infy/qa/util/WebEventListener.class
