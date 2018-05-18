@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5348da46-c98e-4e10-8fbf-5ba9c8c2613e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526513460236.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526514190664.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526523027479.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526523428532.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526523862066.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526536936265.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526537315102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526538029612.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526540444164.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526540596226.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526541742802.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526542020931.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526544298706.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/1526544374352.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/OradianInfyTask-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infy/qa/base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/base/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/infy/qa/util/TestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/infy/qa/util/TestUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.infy.qa.testcases.ClientPageTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.infy.qa.testcases.HomePageTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.infy.qa.testcases.LoginPageTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/Command line test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Extent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Full Test Cases Execution.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Full Test Cases Execution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Full Test Cases Execution.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Full Test Cases Execution.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Instafin App Test Cases.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Instafin App Test Cases.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Instafin App Test Cases.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Instafin Application Test Automation Test Suite/Instafin App Test Cases.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.ClientPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.ClientPageTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.HomePageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.HomePageTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.LoginPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.LoginPageTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Instafin Application Test Automation Test Suite/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5348da46-c98e-4e10-8fbf-5ba9c8c2613e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -96,10 +21,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="-202">
               <caret line="45" column="75" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -249,6 +174,11 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -527,7 +457,7 @@
       <workItem from="1526536150655" duration="2055000" />
       <workItem from="1526539217909" duration="256000" />
       <workItem from="1526540125743" duration="3389000" />
-      <workItem from="1526648292749" duration="742000" />
+      <workItem from="1526648292749" duration="965000" />
     </task>
     <task id="LOCAL-00001" summary="added changes to maven and testng.xml">
       <created>1526539369318</created>
@@ -572,7 +502,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7640000" />
+    <option name="totallyTimeSpent" value="7863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="28" width="1202" height="717" extended-state="0" />
@@ -589,7 +519,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.25775862" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.16080402" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27470687" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42546064" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32998326" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Jenkins" order="3" />
@@ -830,20 +760,20 @@
     <entry file="file://$PROJECT_DIR$/screenshots/1526648793571.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/infy/qa/base/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="-202">
           <caret line="45" column="75" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
