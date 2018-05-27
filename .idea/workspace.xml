@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5348da46-c98e-4e10-8fbf-5ba9c8c2613e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,8 +74,8 @@
       <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="215">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1131#1132#0" expanded="true" />
@@ -587,7 +586,7 @@
       <workItem from="1526540125743" duration="3389000" />
       <workItem from="1526648292749" duration="2156000" />
       <workItem from="1526664694276" duration="1776000" />
-      <workItem from="1527441566860" duration="39000" />
+      <workItem from="1527441566860" duration="263000" />
     </task>
     <task id="LOCAL-00001" summary="added changes to maven and testng.xml">
       <created>1526539369318</created>
@@ -632,7 +631,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10869000" />
+    <option name="totallyTimeSpent" value="11093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="31" width="1202" height="717" extended-state="0" />
@@ -649,11 +648,11 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.16080402" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41708544" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32998326" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32998326" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Jenkins" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24482758" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24482758" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -977,8 +976,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="215">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1131#1132#0" expanded="true" />
