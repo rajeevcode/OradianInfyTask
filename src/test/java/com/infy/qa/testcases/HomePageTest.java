@@ -14,6 +14,7 @@ public class HomePageTest extends TestBase {
     HomePage homePage;
     ClientPage clientPage;
 
+    //homepage test
     public HomePageTest() {
         super ( );
     }
