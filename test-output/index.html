@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -37,8 +37,8 @@
       <div class="suite">
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
-            <a href="#" class="navigator-link" panel-name="suite-Default_Suite">
-              <span class="suite-name border-passed">Default Suite</span>
+            <a href="#" class="navigator-link" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite">
+              <span class="suite-name border-failed">Instafin Application Test Automation Test Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -48,37 +48,37 @@
             <div class="suite-section-content">
               <ul>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="test-xml-Default_Suite">
-                    <span>temp-testng-customsuite.xml</span>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Instafin_Application_Test_Automation_Test_Suite">
+                    <span>testng.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="testlist-Default_Suite">
+                  <a href="#" class="navigator-link " panel-name="testlist-Instafin_Application_Test_Automation_Test_Suite">
                     <span class="test-stats">1 test</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="group-Default_Suite">
+                  <a href="#" class="navigator-link " panel-name="group-Instafin_Application_Test_Automation_Test_Suite">
                     <span>0 groups</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="times-Default_Suite">
+                  <a href="#" class="navigator-link " panel-name="times-Instafin_Application_Test_Automation_Test_Suite">
                     <span>Times</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="reporter-Default_Suite">
+                  <a href="#" class="navigator-link " panel-name="reporter-Instafin_Application_Test_Automation_Test_Suite">
                     <span>Reporter output</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="ignored-methods-Default_Suite">
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Instafin_Application_Test_Automation_Test_Suite">
                     <span>Ignored methods</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="chronological-Default_Suite">
+                  <a href="#" class="navigator-link " panel-name="chronological-Instafin_Application_Test_Automation_Test_Suite">
                     <span>Chronological view</span>
                   </a> <!-- navigator-link  -->
                 </li>
@@ -91,31 +91,65 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">3 methods,   3 passed</span>
+                    <span class="method-stats">8 methods, 1 failed,   7 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" class="hide-methods failed suite-Instafin_Application_Test_Automation_Test_Suite"> (hide)</a> <!-- hide-methods failed suite-Instafin_Application_Test_Automation_Test_Suite -->
+                      <a href="#" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" class="show-methods failed suite-Instafin_Application_Test_Automation_Test_Suite"> (show)</a> <!-- show-methods failed suite-Instafin_Application_Test_Automation_Test_Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Instafin_Application_Test_Automation_Test_Suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" title="com.infy.qa.testcases.ClientPageTest" hash-for-method="verifyClientPageTitleTest">verifyClientPageTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Instafin_Application_Test_Automation_Test_Suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
                     <span class="show-or-hide-methods passed">
-                      <a href="#" panel-name="suite-Default_Suite" class="hide-methods passed suite-Default_Suite"> (hide)</a> <!-- hide-methods passed suite-Default_Suite -->
-                      <a href="#" panel-name="suite-Default_Suite" class="show-methods passed suite-Default_Suite"> (show)</a> <!-- show-methods passed suite-Default_Suite -->
+                      <a href="#" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" class="hide-methods passed suite-Instafin_Application_Test_Automation_Test_Suite"> (hide)</a> <!-- hide-methods passed suite-Instafin_Application_Test_Automation_Test_Suite -->
+                      <a href="#" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" class="show-methods passed suite-Instafin_Application_Test_Automation_Test_Suite"> (show)</a> <!-- show-methods passed suite-Instafin_Application_Test_Automation_Test_Suite -->
                     </span>
-                    <div class="method-list-content passed suite-Default_Suite">
+                    <div class="method-list-content passed suite-Instafin_Application_Test_Automation_Test_Suite">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Default_Suite" title="com.infy.qa.testcases.LoginPageTest" hash-for-method="customLogoTest">customLogoTest</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" title="com.infy.qa.testcases.LoginPageTest" hash-for-method="customLogoTest">customLogoTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Default_Suite" title="com.infy.qa.testcases.LoginPageTest" hash-for-method="loginPageTitleTest">loginPageTitleTest</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" title="com.infy.qa.testcases.LoginPageTest" hash-for-method="loginPageTitleTest">loginPageTitleTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Default_Suite" title="com.infy.qa.testcases.LoginPageTest" hash-for-method="loginTest">loginTest</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" title="com.infy.qa.testcases.LoginPageTest" hash-for-method="loginTest">loginTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content passed suite-Default_Suite -->
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" title="com.infy.qa.testcases.HomePageTest" hash-for-method="verifyCreateClientLinkTest">verifyCreateClientLinkTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" title="com.infy.qa.testcases.HomePageTest" hash-for-method="verifyHomepageTitleTest">verifyHomepageTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" title="com.infy.qa.testcases.HomePageTest" hash-for-method="verifyUserNameTest">verifyUserNameTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" title="com.infy.qa.testcases.HomePageTest" hash-for-method="verifyUsernameLinkTest">verifyUsernameLinkTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Instafin_Application_Test_Automation_Test_Suite -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -126,8 +160,92 @@
     </div> <!-- navigator-root -->
     <div class="wrapper">
       <div class="main-panel-root">
-        <div panel-name="suite-Default_Suite" class="panel Default_Suite">
-          <div class="suite-Default_Suite-class-passed">
+        <div panel-name="suite-Instafin_Application_Test_Automation_Test_Suite" class="panel Instafin_Application_Test_Automation_Test_Suite">
+          <div class="suite-Instafin_Application_Test_Automation_Test_Suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.infy.qa.testcases.ClientPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyClientPageTitleTest">
+                  </a> <!-- verifyClientPageTitleTest -->
+                  <span class="method-name">verifyClientPageTitleTest</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//*[@id=&quot;content&quot;]/div[2]/div/div[1]/h2/strong&quot;}
+  (Session info: chrome=66.0.3359.181)
+  (Driver info: chromedriver=2.38.552518 (183d19265345f54ce39cbb94cf81ba5f15905011),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.12.0&apos;, revision: &apos;7c6e0b3&apos;, time: &apos;2018-05-08T14:04:26.12Z&apos;
+System info: host: &apos;LAZ-TH-L-M-0053&apos;, ip: &apos;fe80:0:0:0:4:c25d:cc19:b459%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.13.4&apos;, java.version: &apos;1.8.0_162&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552518 (183d19265345f5..., userDataDir: /var/folders/z3/_h69_9gj07b...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.181, webStorageEnabled: true}
+Session ID: 061b1f9bf1ea48168eba252604f71978
+*** Element info: {Using=xpath, value=//*[@id=&quot;content&quot;]/div[2]/div/div[1]/h2/strong}
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:419)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy6.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:186)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy10.isDisplayed(Unknown Source)
+	at com.infy.qa.pages.ClientPage.verifyClientPageTitle(ClientPage.java:27)
+	at com.infy.qa.testcases.ClientPageTest.verifyClientPageTitleTest(ClientPageTest.java:33)
+... Removed 32 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Instafin_Application_Test_Automation_Test_Suite-class-failed -->
+          <div class="suite-Instafin_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.infy.qa.testcases.HomePageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyCreateClientLinkTest">
+                  </a> <!-- verifyCreateClientLinkTest -->
+                  <span class="method-name">verifyCreateClientLinkTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyHomepageTitleTest">
+                  </a> <!-- verifyHomepageTitleTest -->
+                  <span class="method-name">verifyHomepageTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyUserNameTest">
+                  </a> <!-- verifyUserNameTest -->
+                  <span class="method-name">verifyUserNameTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyUsernameLinkTest">
+                  </a> <!-- verifyUsernameLinkTest -->
+                  <span class="method-name">verifyUsernameLinkTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Instafin_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Instafin_Application_Test_Automation_Test_Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
               <span class="class-name">com.infy.qa.testcases.LoginPageTest</span>
@@ -155,138 +273,249 @@
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Default_Suite-class-passed -->
-        </div> <!-- panel Default_Suite -->
-        <div panel-name="test-xml-Default_Suite" class="panel">
+          </div> <!-- suite-Instafin_Application_Test_Automation_Test_Suite-class-passed -->
+        </div> <!-- panel Instafin_Application_Test_Automation_Test_Suite -->
+        <div panel-name="test-xml-Instafin_Application_Test_Automation_Test_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">/Users/rajeev.kumar/Library/Caches/IntelliJIdea2018.1/temp-testng-customsuite.xml</span>
+            <span class="header-content">/Users/rajeev.kumar/git/OradianInfyTask/src/main/resources/testng.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Default Suite&quot;&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;OradianInfyTask&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Instafin Application Test Automation Test Suite&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.qa.ExtentReportListener.ExtentReporterNG&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Full Test Cases Execution&quot;&gt;
+    &lt;packages&gt;
+      &lt;package name=&quot;com.infy.qa.testcases&quot;/&gt;
+    &lt;/packages&gt;
     &lt;classes&gt;
+      &lt;class name=&quot;com.infy.qa.testcases.ClientPageTest&quot;/&gt;
+      &lt;class name=&quot;com.infy.qa.testcases.HomePageTest&quot;/&gt;
       &lt;class name=&quot;com.infy.qa.testcases.LoginPageTest&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- OradianInfyTask --&gt;
-&lt;/suite&gt; &lt;!-- Default Suite --&gt;
+  &lt;/test&gt; &lt;!-- Full Test Cases Execution --&gt;
+&lt;/suite&gt; &lt;!-- Instafin Application Test Automation Test Suite --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
-        <div panel-name="testlist-Default_Suite" class="panel">
+        <div panel-name="testlist-Instafin_Application_Test_Automation_Test_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">Tests for Default Suite</span>
+            <span class="header-content">Tests for Instafin Application Test Automation Test Suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">OradianInfyTask (1 class)</span>
+                <span class="test-name">Full Test Cases Execution (3 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
-        <div panel-name="group-Default_Suite" class="panel">
+        <div panel-name="group-Instafin_Application_Test_Automation_Test_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">Groups for Default Suite</span>
+            <span class="header-content">Groups for Instafin Application Test Automation Test Suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
-        <div panel-name="times-Default_Suite" class="panel">
+        <div panel-name="times-Instafin_Application_Test_Automation_Test_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">Times for Default Suite</span>
+            <span class="header-content">Times for Instafin Application Test Automation Test Suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="times-div">
               <script type="text/javascript">
-suiteTableInitFunctions.push('tableData_Default_Suite');
-function tableData_Default_Suite() {
+suiteTableInitFunctions.push('tableData_Instafin_Application_Test_Automation_Test_Suite');
+function tableData_Instafin_Application_Test_Automation_Test_Suite() {
 var data = new google.visualization.DataTable();
 data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(3);
+data.addRows(8);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'loginTest')
-data.setCell(0, 2, 'com.infy.qa.testcases.LoginPageTest')
-data.setCell(0, 3, 3228);
+data.setCell(0, 1, 'verifyClientPageTitleTest')
+data.setCell(0, 2, 'com.infy.qa.testcases.ClientPageTest')
+data.setCell(0, 3, 21803);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'customLogoTest')
+data.setCell(1, 1, 'loginTest')
 data.setCell(1, 2, 'com.infy.qa.testcases.LoginPageTest')
-data.setCell(1, 3, 83);
+data.setCell(1, 3, 2916);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'loginPageTitleTest')
-data.setCell(2, 2, 'com.infy.qa.testcases.LoginPageTest')
-data.setCell(2, 3, 26);
-window.suiteTableData['Default_Suite']= { tableData: data, tableDiv: 'times-div-Default_Suite'}
+data.setCell(2, 1, 'verifyCreateClientLinkTest')
+data.setCell(2, 2, 'com.infy.qa.testcases.HomePageTest')
+data.setCell(2, 3, 1834);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'verifyUsernameLinkTest')
+data.setCell(3, 2, 'com.infy.qa.testcases.HomePageTest')
+data.setCell(3, 3, 1515);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'customLogoTest')
+data.setCell(4, 2, 'com.infy.qa.testcases.LoginPageTest')
+data.setCell(4, 3, 46);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'verifyUserNameTest')
+data.setCell(5, 2, 'com.infy.qa.testcases.HomePageTest')
+data.setCell(5, 3, 40);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'verifyHomepageTitleTest')
+data.setCell(6, 2, 'com.infy.qa.testcases.HomePageTest')
+data.setCell(6, 3, 34);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'loginPageTitleTest')
+data.setCell(7, 2, 'com.infy.qa.testcases.LoginPageTest')
+data.setCell(7, 3, 19);
+window.suiteTableData['Instafin_Application_Test_Automation_Test_Suite']= { tableData: data, tableDiv: 'times-div-Instafin_Application_Test_Automation_Test_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 3 seconds</span>
-              <div id="times-div-Default_Suite">
-              </div> <!-- times-div-Default_Suite -->
+              <span class="suite-total-time">Total running time: 28 seconds</span>
+              <div id="times-div-Instafin_Application_Test_Automation_Test_Suite">
+              </div> <!-- times-div-Instafin_Application_Test_Automation_Test_Suite -->
             </div> <!-- times-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
-        <div panel-name="reporter-Default_Suite" class="panel">
+        <div panel-name="reporter-Instafin_Application_Test_Automation_Test_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">Reporter output for Default Suite</span>
+            <span class="header-content">Reporter output for Instafin Application Test Automation Test Suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
-        <div panel-name="ignored-methods-Default_Suite" class="panel">
+        <div panel-name="ignored-methods-Instafin_Application_Test_Automation_Test_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
             <span class="header-content">0 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
-        <div panel-name="chronological-Default_Suite" class="panel">
+        <div panel-name="chronological-Instafin_Application_Test_Automation_Test_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
             <span class="header-content">Methods in chronological order</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.infy.qa.testcases.LoginPageTest</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.infy.qa.testcases.HomePageTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setUp</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">loginPageTitleTest</span>
-                <span class="method-start">11831 ms</span>
+                <span class="method-name">verifyCreateClientLinkTest</span>
+                <span class="method-start">15066 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">11858 ms</span>
+                <span class="method-start">16901 ms</span>
               </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.infy.qa.testcases.ClientPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setUp</span>
-                <span class="method-start">12050 ms</span>
+                <span class="method-start">17021 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">verifyClientPageTitleTest</span>
+                <span class="method-start">32466 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">54275 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.infy.qa.testcases.HomePageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">54445 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyHomepageTitleTest</span>
+                <span class="method-start">69220 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">69254 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.infy.qa.testcases.LoginPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">69387 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginPageTitleTest</span>
+                <span class="method-start">79624 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">79643 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.infy.qa.testcases.HomePageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">79750 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyUserNameTest</span>
+                <span class="method-start">93125 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">93165 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.infy.qa.testcases.LoginPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">93286 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">customLogoTest</span>
-                <span class="method-start">20127 ms</span>
+                <span class="method-start">103366 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">20211 ms</span>
+                <span class="method-start">103412 ms</span>
               </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.infy.qa.testcases.HomePageTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setUp</span>
-                <span class="method-start">20390 ms</span>
+                <span class="method-start">103528 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyUsernameLinkTest</span>
+                <span class="method-start">117478 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">118994 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.infy.qa.testcases.LoginPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">119116 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">loginTest</span>
-                <span class="method-start">28637 ms</span>
+                <span class="method-start">128395 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">31865 ms</span>
+                <span class="method-start">131311 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

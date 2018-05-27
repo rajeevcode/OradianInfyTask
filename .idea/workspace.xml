@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5348da46-c98e-4e10-8fbf-5ba9c8c2613e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/OradianInfyTask.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/OradianInfyTask.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/OradianInfyTask.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/OradianInfyTask.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.HomePageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.infy.qa.testcases.HomePageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,10 +86,9 @@
       <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="35">
+              <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#1131#1132#0" expanded="true" />
                 <element signature="e#1203#1204#0" expanded="true" />
               </folding>
@@ -164,10 +175,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
+    <option name="x" value="40" />
     <option name="y" value="31" />
-    <option name="width" value="1202" />
-    <option name="height" value="717" />
+    <option name="width" value="1240" />
+    <option name="height" value="703" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -208,22 +219,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OradianInfyTask" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OradianInfyTask" type="b2602c69:ProjectViewProjectNode" />
@@ -289,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginPageTest">
+  <component name="RunManager" selected="TestNG.TestNG">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -563,8 +558,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginPageTest" />
         <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.LoginPageTest" />
         <item itemvalue="TestNG.ClientPageTest.verifyClientPageTitleTest" />
         <item itemvalue="TestNG.ClientPageTest" />
         <item itemvalue="TestNG.LoginPageTest.loginPageTitleTest" />
@@ -586,7 +581,7 @@
       <workItem from="1526540125743" duration="3389000" />
       <workItem from="1526648292749" duration="2156000" />
       <workItem from="1526664694276" duration="1776000" />
-      <workItem from="1527441566860" duration="263000" />
+      <workItem from="1527441566860" duration="1432000" />
     </task>
     <task id="LOCAL-00001" summary="added changes to maven and testng.xml">
       <created>1526539369318</created>
@@ -599,12 +594,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginPageTest - 2018.05.19 at 00h 34m 23s.xml">
-      <configuration name="LoginPageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomePageTest - 2018.05.19 at 00h 35m 47s.xml">
-      <configuration name="HomePageTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="ClientPageTest - 2018.05.19 at 00h 37m 45s.xml">
       <configuration name="ClientPageTest" configurationId="TestNG" />
     </history-entry>
@@ -629,16 +618,22 @@
     <history-entry file="LoginPageTest - 2018.05.19 at 01h 00m 25s.xml">
       <configuration name="LoginPageTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="LoginPageTest - 2018.05.28 at 00h 45m 25s.xml">
+      <configuration name="LoginPageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2018.05.28 at 00h 46m 43s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11093000" />
+    <option name="totallyTimeSpent" value="12262000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="31" width="1202" height="717" extended-state="0" />
-    <editor active="true" />
+    <frame x="40" y="31" width="1240" height="703" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3484087" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -647,12 +642,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.25775862" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.16080402" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41708544" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41680962" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2646566" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Jenkins" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24482758" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23706177" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -660,7 +655,6 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3484087" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -773,7 +767,6 @@
         <state relative-caret-position="90">
           <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#1131#1132#0" expanded="true" />
             <element signature="e#1203#1204#0" expanded="true" />
           </folding>
@@ -976,10 +969,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/infy/qa/testcases/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="35">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#1131#1132#0" expanded="true" />
             <element signature="e#1203#1204#0" expanded="true" />
           </folding>
